@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dtype2wasm from 'https://cdn.jsdelivr.net/gh/stdlib-js/wasm-base-dtype2wasm@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/wasm-base-dtype2wasm/tags). For example,
+
+```javascript
 import dtype2wasm from 'https://cdn.jsdelivr.net/gh/stdlib-js/wasm-base-dtype2wasm@v0.1.0-deno/mod.js';
 ```
 
@@ -95,7 +100,7 @@ var out = dtype2wasm( 'foobar' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import dtype2wasm from 'https://cdn.jsdelivr.net/gh/stdlib-js/wasm-base-dtype2wasm@v0.1.0-deno/mod.js';
+import dtype2wasm from 'https://cdn.jsdelivr.net/gh/stdlib-js/wasm-base-dtype2wasm@deno/mod.js';
 
 var dtypes = [
     'float64',

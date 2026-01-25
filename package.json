@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/wasm-base-dtype2wasm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the WebAssembly data type associated with a provided array data type value.",
   "license": "Apache-2.0",
   "author": {

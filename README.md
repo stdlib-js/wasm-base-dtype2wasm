@@ -193,8 +193,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/wasm-base-dtype2wasm.svg
 [npm-url]: https://npmjs.org/package/@stdlib/wasm-base-dtype2wasm
 
-[test-image]: https://github.com/stdlib-js/wasm-base-dtype2wasm/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/wasm-base-dtype2wasm/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/wasm-base-dtype2wasm/actions/workflows/test.yml/badge.svg?branch=v0.1.1
+[test-url]: https://github.com/stdlib-js/wasm-base-dtype2wasm/actions/workflows/test.yml?query=branch:v0.1.1
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/wasm-base-dtype2wasm/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/wasm-base-dtype2wasm?branch=main

@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dtype2wasm from 'https://cdn.jsdelivr.net/gh/stdlib-js/wasm-base-dtype2wasm@esm/index.mjs';
+import dtype2wasm from 'https://cdn.jsdelivr.net/gh/stdlib-js/wasm-base-dtype2wasm@v0.1.1-esm/index.mjs';
 ```
 
 #### dtype2wasm( dtype )
@@ -100,7 +100,7 @@ var out = dtype2wasm( 'foobar' );
 <body>
 <script type="module">
 
-import dtype2wasm from 'https://cdn.jsdelivr.net/gh/stdlib-js/wasm-base-dtype2wasm@esm/index.mjs';
+import dtype2wasm from 'https://cdn.jsdelivr.net/gh/stdlib-js/wasm-base-dtype2wasm@v0.1.1-esm/index.mjs';
 
 var dtypes = [
     'float64',
